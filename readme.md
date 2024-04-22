@@ -39,6 +39,8 @@
 
 11. Change the domain name to whatever you want, but make sure to give us __100%__ credit in your Git fork or something. Click `Save` and close out the menu. 
 
+NOTE: This is a fork of the original makers check them out!
+
 12. Next click on the link that was generated below `Configuration for (name of domain)`
 
 13. And you're done. Make sure to keep your Github updated with the most recent versions of Night. 
